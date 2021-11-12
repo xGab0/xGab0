@@ -1,5 +1,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolobettelini&theme=tokyonight&hide_border=true&border_radius=25&count_private=true&include_all_commits=true&show_icons=true&custom_title=My%20Activity)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paolobettelini&theme=tokyonight&layout=compact&hide_border=true&border_radius=25&custom_title=My%20Languages&langs_count=10)
 <!--
 **xGab0/xGab0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
