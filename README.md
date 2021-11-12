@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolobettelini&theme=tokyonight&hide_border=true&border_radius=25&count_private=true&include_all_commits=true&show_icons=true&custom_title=My%20Activity)
 
 <!--
